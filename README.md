@@ -4,4 +4,4 @@
     💼 Cognitive Neuroscience & Data Science @ Brown
     💻 Data Science Consultant
 </pre>
-<br><br>
+<br>
