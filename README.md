@@ -1,6 +1,5 @@
 # 🌄 Peter Graham 🏄‍♂️
-
-<br><br>
+<br>
 <pre>
     💼 Cognitive Neuroscience & Data Science @ Brown
     💻 Data Science Consultant
