@@ -7,4 +7,4 @@
     💻 Data Science Consultant
 </pre>
 <br>
-<div></div>
+<div>
