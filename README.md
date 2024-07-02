@@ -1,12 +1,13 @@
 <div align="center">
-<h1> 🌄 Peter Alexander 捷虎 Graham 🏄‍♂️ </h1>
+<h1> 🌄 Peter Alexander 捷虎 Graham </h1>
 <img src="https://github.com/peterajhgraham/peterajhgraham/assets/174508049/92364e11-a1ec-47d3-99d1-ca2fd362c83f"
-    width = 35%
+    width = 45%
     align = right
     />    
 <pre>
+    🏄‍♂️ California Native
     💼 Cognitive Neuroscience & Data Science @ Brown
-    💻 Tech Consultant
+    💻 Tech Consultant @ Deloitte
 </pre>
 </div>
 
@@ -26,6 +27,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+<br>
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -44,4 +46,5 @@
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+<br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
