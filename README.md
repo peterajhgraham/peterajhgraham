@@ -34,6 +34,9 @@
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 
+<!-- Checklist to learn and get familiar with is C, C++, and C# -->
+<!-- Quantum Computing seems pretty sick so dabble in Qiskit when you get a chance -->
+
 <h5> Databases: </h5>
     
 ![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
