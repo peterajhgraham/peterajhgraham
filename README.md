@@ -2,7 +2,7 @@
 <h1> Peter Alexander 捷虎 Graham 🌄 </h1>
     
 <img src = "https://github.com/peterajhgraham/peterajhgraham/assets/174508049/92364e11-a1ec-47d3-99d1-ca2fd362c83f"
-    width = 33%
+    width = 42%
     align = right
     >
 
@@ -14,7 +14,7 @@
 
 | 🎵 Usually Listening to Music 🎵 |
 | ------------------------------- |
-| <img src = "https://spotify-github-profile.kittinanx.com/api/view?uid=peteralexandergraham3000&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt = "Spotify Activity" width = 75% align = "center"> |
+| <img src = "https://spotify-github-profile.kittinanx.com/api/view?uid=peteralexandergraham3000&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt = "Spotify Activity" width = 77% align = "center"> |
 
 </div>
 
