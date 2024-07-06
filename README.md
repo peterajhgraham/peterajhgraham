@@ -9,7 +9,7 @@
 <pre>
     🏄‍♂️ Bay Area Native
     🏫 Cognitive Neuroscience & Data Science @ Brown
-    💻 Learning Computer Science For Fun!
+    💻 Self-Learning Computer Science!
     💼 Tech Consulting @ Deloitte
 </pre>
 
