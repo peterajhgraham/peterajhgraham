@@ -1,5 +1,5 @@
 <div align = "center">
-<h1> 🌄 Peter Alexander 捷虎 Graham </h1>
+<h1> Peter Alexander 捷虎 Graham 🌄 </h1>
     
 <img src = "https://github.com/peterajhgraham/peterajhgraham/assets/174508049/92364e11-a1ec-47d3-99d1-ca2fd362c83f"
     width = 33%
@@ -7,10 +7,9 @@
     >
     
 <pre>
-    🏄‍♂️ Bay Area Native
-    🏫 Cognitive Neuroscience & Data Science @ Brown
-    💻 Self-Learning Everything Computer Science
-    💼 Tech Consulting @ Deloitte
+    🏄‍♂️ Bay Area Native ⛰️
+    🧠 Cognitive Neuroscience & Data Science @ Brown 🏫 
+    💻 Tech Consulting @ Deloitte 💼
 </pre>
 
 | 🎵 Usually Listening to Music 🎵 |
