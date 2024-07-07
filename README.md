@@ -60,5 +60,3 @@
 ![Bash](https://img.shields.io/badge/Bash-1f425f.svg?style=for-the-badge&logo=gnubash&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/github-121013?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab)
