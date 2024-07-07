@@ -1,7 +1,7 @@
 <div align = "center">
 <h1> Peter Alexander 捷虎 Graham 🌄 </h1>
     
-<img src = "lofi-avatar.png"
+<img src = "images/lofi-avatar.png"
     width = 45%
     align = right
     >
