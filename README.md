@@ -1,8 +1,8 @@
 <div align = "center">
 <h1> Peter Alexander 捷虎 Graham 🌄 </h1>
     
-<img src = "https://github.com/peterajhgraham/peterajhgraham/assets/174508049/92364e11-a1ec-47d3-99d1-ca2fd362c83f"
-    width = 42%
+<img src = "lofi-avatar.png"
+    width = 45%
     align = right
     >
 
