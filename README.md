@@ -9,7 +9,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫 
-    💻 Biz-Tech Consulting @ Deloitte 💼
+    💻 Technology Consulting @ Deloitte 💼
 </pre>
 
 | 🎵 Usually Listening to Music 🎵 |
