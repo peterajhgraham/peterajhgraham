@@ -8,8 +8,8 @@
 
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
-    🧠 Cognitive Neuroscience & Data Science @ Brown 🏫 
-    💻 Technology Consulting @ Deloitte 💼
+    🧠 Cognitive Neuroscience & Data Science @ <img src = "images/brown_logo.png" height = "15" style = "vertical-align: -2px;"/> 🏫 
+    💻 Neural Computation Research @ <img src = "images/brown_logo.png" height = "15" style = "vertical-align: -2px;"/> & <img src = "images/stanford_logo.png" height = "15" style = "vertical-align: -2px;"/> 💼
 </pre>
 
 | 🎵 Music 🎵 |
@@ -20,7 +20,7 @@
 
 <h3> My Tech Stack: </h3>
 
-<h5> Back-end/ML/DL: </h5>
+<h5> Data-Science/ML/DL: </h5>
 
 ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
