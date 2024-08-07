@@ -8,9 +8,8 @@
 
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
-    🧠 Cognitive Neuroscience & Data Science @ <img src="" height="18" style="vertical-align: -2px;" /> 🏫 
-    💻 Neural Computation Research @ <img src="images/Stanford_Logo.png" height="18" style="vertical-align: -2px;" /> & <img src="" height="18" style="vertical-align: -2px;" /> 💼
-    
+    🧠 Cognitive Neuroscience & Data Science @ Brown
+    💻 Neural Computation Research @ Brown & Stanford 💼
 </pre>
 
 | 🎵 Music 🎵 |
