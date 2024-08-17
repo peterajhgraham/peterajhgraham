@@ -8,13 +8,15 @@
 
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
-    🧠 Cognitive Neuroscience & Data Science @ Brown
-    💻 Neural Computation Research @ Brown & Stanford 💼
+    🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
+    💻 Research @ Brown & Stanford 💼
 </pre>
-    
+
+<div align = "center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterajhgraham\&layout=compact)
 
-<div align = "right">
+</div>
 
 </div>
 
