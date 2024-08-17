@@ -1,22 +1,24 @@
 <div align = "center">
 <h1> Peter Alexander 捷虎 Graham 🌄 </h1>
-    
-<img src = "images/lofi-avatar.png"
-    width = 48%
-    align = right
-    >
 
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 Research @ Brown & Stanford 💼
+    💻 Computational Research @ Brown & Stanford 💼
 </pre>
+
+</div>
+    
+<img src = "images/lofi-avatar.png"
+    width = 50%
+    align = right
+    >
+
+</div>
 
 <div align = "center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterajhgraham\&layout=compact)
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterajhgraham\&&layout=donut)
 
 </div>
 
