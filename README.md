@@ -53,4 +53,20 @@
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/rstudio-4285F4?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-1f425f.svg?style=for-the-badge&logo=bash)
+![GitHub](https://img.shields.io/badge/github-%233F4F75.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%233F4F75.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<h5> Setup: </h5>
+
+![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![IceCat](https://img.shields.io/badge/icecat-263A85?style=for-the-badge&logo=gnuicecat&logoColor=white)
+
+<h5> Learning: </h5>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
