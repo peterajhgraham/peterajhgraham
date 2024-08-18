@@ -54,18 +54,14 @@
 
 <h5> Tools: </h5>
 
+![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/rstudio-4285F4?style=for-the-badge&logo=rstudioide&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%233F4F75.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
+![GitHub](https://img.shields.io/badge/github-%233F4F75.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%233F4F75.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-<h5> Setup: </h5>
-
-![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![IceCat](https://img.shields.io/badge/icecat-263A85?style=for-the-badge&logo=gnuicecat&logoColor=white)
 
 <h5> Learning: </h5>
 
