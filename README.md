@@ -63,5 +63,5 @@
 <br>
 
 ```
-I recently uploaded many long-time projects to my Github! Check them out below!
+I recently uploaded many long-time projects to my Github! Check some of them out below!
 ```
