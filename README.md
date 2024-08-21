@@ -10,7 +10,7 @@
 </div>
     
 <img src = "images/lofi-avatar.png"
-    width = 50%
+    width = 66%
     align = right
     >
 
@@ -18,7 +18,7 @@
 
 <div align = "center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterajhgraham\&&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterajhgraham&layout=compact)
 
 </div>
 
@@ -32,7 +32,6 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-<br>
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/seaborn-%3354a97.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/scipy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
