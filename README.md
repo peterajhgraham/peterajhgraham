@@ -16,12 +16,6 @@
 
 </div>
 
-<div align = "center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterajhgraham&layout=compact)
-
-</div>
-
 <h3> My Tech Stack: </h3>
 
 <h5> Data-Science/ML/DL: </h5>
