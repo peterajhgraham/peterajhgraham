@@ -4,7 +4,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 Neural Computation Research @ Brown & Stanford 💼
+    💻 Research @ Brown & Stanford 💼
 </pre>
 
 </div>
