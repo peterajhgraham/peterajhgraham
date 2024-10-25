@@ -3,8 +3,8 @@
 
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
-    🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 Research @ Brown & Stanford 💼
+    🧠 Cognitive Neuroscience @ Brown 🏫
+    💻 Computational Neuroscience Research @ Brown 💼
 </pre>
 
 </div>
