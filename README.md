@@ -4,7 +4,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 Deployment Strategist @ Palantir 💼
+    💻 Building @ Stealth 💼
 </pre>
 
 </div>
