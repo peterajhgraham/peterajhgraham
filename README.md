@@ -4,7 +4,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 Building @ Stealth 💼
+    💻 Co-Founder & CTO @ Spiral Works 💼
 </pre>
 
 </div>
