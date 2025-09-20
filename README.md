@@ -4,7 +4,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 https://www.linkedin.com/in/peterajhgraham/ 💼
+    💻 Palantir & Founder @ Spiral Works 💼
 </pre>
 
 </div>
