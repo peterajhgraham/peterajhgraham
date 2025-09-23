@@ -4,8 +4,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 Founder @ Spiral Works & Investing 💼
-    🪁 peterajhgraham.org 🌎
+    💻 peterajhgraham.org 💼
 </pre>
 
 </div>
