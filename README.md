@@ -18,7 +18,7 @@
 
 <h3> My Tech Stack: </h3>
 
-<h5> Data-Science/ML/DL: </h5>
+<h5> Data Science & ML: </h5>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -35,7 +35,6 @@
     
 ![Amazon Web Services](https://img.shields.io/badge/amazon%20web%20services-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <h5> Tools: </h5>
@@ -51,5 +50,5 @@
 <br>
 
 ```
-I recently uploaded many long-time projects to my Github! Check some of them out below!
+I recently uploaded some projects to my Github, check some of them out below!
 ```
