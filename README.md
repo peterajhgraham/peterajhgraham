@@ -4,7 +4,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 Critical Infra 💼
+    💻 peterajhgraham.com 💼
 </pre>
 
 </div>
