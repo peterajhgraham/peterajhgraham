@@ -44,6 +44,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%233F4F75.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/ArchLinux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Shell Script](https://img.shields.io/badge/shell_script-%233F4F75.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 <br>
