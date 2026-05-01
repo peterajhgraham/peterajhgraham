@@ -50,10 +50,6 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterajhgraham)](https://github.com/peterajhgraham/github-readme-stats)
-
-<br>
-
 ```
 I recently uploaded some projects to my Github, check some of them out below!
 ```
