@@ -4,7 +4,7 @@
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
     🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 System/ML Researcher & Engineer 💼
+    💻 ML Researcher & Engineer 💼
 </pre>
 
 </div>
