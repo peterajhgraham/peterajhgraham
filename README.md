@@ -3,8 +3,8 @@
 
 <pre>
     🏄‍♂️ Bay Area Native ⛰️
-    🧠 Cognitive Neuroscience & Data Science @ Brown 🏫
-    💻 ML Researcher & Engineer 💼
+    🧠 Computational Neuroscience Researcher @ Brown 🏫
+    💻 ML Engineer 💼
 </pre>
 
 </div>
