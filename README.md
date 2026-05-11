@@ -58,7 +58,3 @@
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 <br>
-
-```
-I recently uploaded some projects to my Github, check some of them out below!
-```
