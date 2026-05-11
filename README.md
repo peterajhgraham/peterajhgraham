@@ -6,7 +6,7 @@
     🧠 Computational Neuroscience Researcher @ Brown 🏫
     💻 ML Engineer & Researcher 💼
 
-    Building at the crossroads of neural computation and 
+    Building at the crossroads of neural computation and artificial intelligence.
 </pre>
 
 </div>
