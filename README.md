@@ -11,11 +11,9 @@ Outside of that: long runs in the hills, lo-fi on repeat, and a slowly growing p
 
 ---
 
-### Tech stack
+### Tools
 
-**Neural data & signal processing** — NumPy · SciPy · MNE · wavelets / STFT
-**ML & deep learning** — PyTorch · JAX · Triton · HuggingFace · scikit-learn · W&B
-**MLOps & cloud** — Docker · AWS · GCP · Postgres
+Most days I'm in PyTorch or JAX, dropping into Triton when the kernel matters and HuggingFace when it doesn't, with scikit-learn and W&B around for the unglamorous parts. Neural data lives in NumPy, SciPy, and MNE — wavelets and STFTs when the frequency axis is the interesting one. Everything ships through Docker onto AWS or GCP, with Postgres holding the things I don't want to lose.
 
 ---
 
